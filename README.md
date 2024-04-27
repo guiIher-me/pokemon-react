@@ -1,5 +1,5 @@
 # React Pokémon
-## A simple frontend project to list Pokémons using React!
+## A simple frontend React project to list Pokémons!
 
 ![project snapshot](https://github.com/guiIher-me/pokemon-react/blob/main/snapshot.png?raw=true)
 
